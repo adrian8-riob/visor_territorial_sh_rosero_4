@@ -1,0 +1,16 @@
+{
+  "totales": {
+    "sectores_censales": 1029,
+    "poblacion_capa": 260882,
+    "predios": 66323,
+    "predios_area_ha": 17673.63,
+    "barrios": 202,
+    "parroquias": 12,
+    "plataformas": 18,
+    "circunscripciones": 2
+  },
+  "notas": {
+    "poblacion": "Estimación por ponderación de superficie intersectada entre sectores censales y unidad territorial. Supone distribución uniforme de habitantes dentro de cada sector. La capa recibida contiene años 2020 y 2022; datos referenciales asociados a insumos INEC, no estimaciones oficiales a nivel barrial.",
+    "predios": "Capa predial provisional de trabajo predios_05_10_26. Conteo según punto interior del predio; área completa asignada a la unidad que contiene el punto interior; predios que atraviesan límites no se fraccionan. No constituye cifra oficial de catastro."
+  }
+}
